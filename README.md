@@ -23,5 +23,11 @@ Imagem
 
 Código (entre crases)
 `print("hello")`
+
 link: 
 [site do IFC](https://ibirama.ifc.edu.br/)
+
+Tabela:
+Número|Nome|Nota
+-|-|-
+1|Budag|2
